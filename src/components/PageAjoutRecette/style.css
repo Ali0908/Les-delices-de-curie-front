@@ -1,0 +1,35 @@
+.listIngredients{
+  background-color: #c8c3c6;
+  min-height: 50vh;
+  padding-left: 1rem!important;
+ 
+}
+.listSteps{
+  background-color: #c8c3c6;
+  min-height: 50vh;
+  padding-left: 1rem!important;
+  
+}
+.styleElm{
+  display: flex;
+  align-items: center;
+  padding-left: 0.3rem;
+}
+
+h3{
+  margin: 0.5rem 0;
+}
+.titleNouvelleRecette{
+  width: 20rem;
+  height: 3rem;
+
+}
+.nouvelleRecette form {
+  margin: 2rem 0;
+  
+}
+
+#temps{
+  width: 5rem;
+}
+ 

@@ -1,0 +1,26 @@
+.App{
+  background-color: beige;
+  border: solid 1px black;
+ 
+
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  margin: 2rem 0;
+} 
+
+.form label, .form input{
+  width: 30rem;
+  height: 2rem;
+  margin: 0.3rem;
+}
+
+
+
+
+
+

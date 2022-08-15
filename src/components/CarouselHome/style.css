@@ -1,0 +1,13 @@
+.carouselAnim{
+  height: 50vh;
+  background-color: #8dc1ef;
+  margin-top: 0.5rem;
+}
+
+.legend {
+  height: 10rem;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 3rem!important;
+  transition: none!important;
+}

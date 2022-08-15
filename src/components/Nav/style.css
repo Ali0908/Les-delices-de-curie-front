@@ -1,0 +1,42 @@
+.nav{
+  border: solid black 2px;
+  border-radius: 5px;
+}
+
+.MuiButton-containedPrimary {
+  color: #fff;
+  background-color: #3f51b5;
+  font-size: 0.8rem;
+  width: '35rem',
+}
+.navigation ul {
+display: flex;
+justify-content: space-evenly;
+width: 40vw;
+margin: 0.5rem;
+
+}
+
+
+
+.navigation ul li{
+ font-size: 1.5rem;
+ padding: 0.3rem;
+ text-align: center;
+ color:#f0eeef!important ; 
+ font-weight: 800;
+
+}
+
+.liColor a{
+  color:#f0eeef!important ; 
+ font-weight: 800;
+}
+  .liCategorie{
+    display: flex;
+  }
+  /* menu derulant style */
+  .css-6hp17o-MuiList-root-MuiMenu-list {
+
+    display: flex;
+  }

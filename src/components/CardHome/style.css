@@ -1,0 +1,10 @@
+.recipe-like {
+  display: flex;
+}
+
+.recipe-like p{
+  font-size: 1rem;
+  margin: auto;
+}
+
+
